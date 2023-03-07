@@ -1,5 +1,5 @@
 > ## Template for Learning Paths
-You can refer [JavaScript Learning Path](#) for reference.
+You can refer [JavaScript Learning Path](https://github.com/tinkerhub/maker-station/blob/main/Web%20Dev/Backend/Languages/JavaScript.md) for reference.
 
 ## Why learn {technology} ❓
 
