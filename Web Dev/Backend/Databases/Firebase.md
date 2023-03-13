@@ -56,65 +56,37 @@ After completing this learning path you will be knowledgeable in:
 
 ## 💡 Learning Session
 
-### Basics of JS
-
-**🎓 Topics to Learn**
-
-```
-- Variables, Data Types and Operators
-- Strings and Template Literals
-- Math and Boolean Logic
-- Loops and Functions
-    - Arrow Functions
-- ES6
-```
-
-**🧑🏻‍💻 Learn from**
-
-_Video Tutorials_
-
-- [JavaScript for Beginners by Microsoft](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-- [JavaScript basics by Freecodecamp](https://youtu.be/PkZNo7MFNFg)
-
-_Articles/Blogs_
-
-- [JavaScript by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-**🛠️ Get into action**
-
-- Both of the above mentioned resources include a lot of activities. Try those activities to get a better understanding of JavaScript
-
 ### Getting Started with Firebase
 
 **🎓 Topics to Learn**
 
 ```
-- Firebase Overview
-- Setting up a Firebase account
+- Firebase and its features
 - Creating a Firebase project
-- Understanding Console
+- Setting up Firebase SDKs for different platforms
 ```
 
 **🧑🏻‍💻 Learn from**
 
 _Videos_
+- [Introducing Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A)
+- [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI&t=68s)
+- [Getting started with Firebase on Apple platforms](https://www.youtube.com/watch?v=F9Gs_pfT3hs)
+- [Getting started with Firebase for the web](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
 
-- [DOM Manipulation by Freecodecamp](https://youtu.be/5fb2aPlgoys)
-- [JavaScript under the Hood](https://youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB)
-- [Fetch API](https://youtu.be/cuEtnrL9-H0)
-
-**Note:** You can refer the JavaScript for beginners to learn about promises.
 
 _Articles/Blogs_
+- [Firebase: Get started](https://firebase.google.com)
 
-- [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+- [Firebase documentation](https://firebase.google.com/docs)
+
 
 **🛠️ Get into action**
 
 A few projects you can build to implement the concepts you have learned above:
 
-- A simple counter with two buttons(+,-) where the user can increase or decrease the value when the respective buttons are clicked.
-  - You will get an understanding of **_DOM Manipulation, Event Listeners_**
+- Create a Firebase project and integrate Firebase SDK into a mobile or web application
+
 - Build a project using any APIs:
   - Create a web app to translate English to any other language. You can check out [Fun Translations API](https://funtranslations.com/) for some interesting languages.
   - Create a web app to to display the current weather using Weather API.
@@ -125,12 +97,12 @@ A few projects you can build to implement the concepts you have learned above:
 
 ## 🔖 Resource Pool
 
-You can checkout these additional resources to learn more about JavaScript
+You can checkout these additional resources to learn more about Firebase
 
 ### Articles/Blogs
 
-- [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-- [JavaScript Info](https://javascript.info/)
+- [The Firebase Blog](https://firebase.googleblog.com/)
+- [Firebase Stories](https://firebase.google.com/community/stories)
 
 ### Videos
 
