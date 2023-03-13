@@ -104,7 +104,7 @@ You can checkout these additional resources to learn more about Firebase
 - [The Firebase Blog](https://firebase.googleblog.com/)
 - [Firebase Stories](https://firebase.google.com/community/stories)
 - [Firebase Open Source](https://firebaseopensource.com/)
-
+- [Learning Resources](https://firebase.google.com/community/learn)
 ### Videos
 
 - [Firebase Fundamentals](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR)
@@ -114,13 +114,22 @@ You can checkout these additional resources to learn more about Firebase
 
 - [Firebase Cookbook (Preview)](https://www.google.co.in/books/edition/_/mkFPDwAAQBAJ?hl=en&gbpv=1&pg=PP1)
 
+### Newsletters
+
+- [Firebase Newsletter](https://console.firebase.google.com/subscriptions/overview)
+
+### Communities
+- [Firebase Community Page](https://firebase.google.com/community)
+- [Slack community](http://firebase.community/)
+
 ---
 
 ## 🚀 Project Pool
 
 Here are few project ideas you can try out, these are just an inspiration to get started. Try to learn and build ideas that come to your mind.
 
-- Create a real-time chat application built with Firebase.
-- Develop a blog application built with Firebase.
-- Build a to-do list application with Firebase.
+- Create a real-time chat application built with Firebase. [(link)](https://github.com/firebase/codelab-friendlychat-web)
+- Buit an e-commerce website with Firebase.
+- Develop a blog application built with Firebase. [(link)](https://github.com/firebase/friendlyeats-web)
+- Build a TodoApp using ReactJS and Firebase [(link)](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
 - Try out multiple Firebase services and create interesting projects
