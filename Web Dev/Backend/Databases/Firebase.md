@@ -103,15 +103,16 @@ You can checkout these additional resources to learn more about Firebase
 
 - [The Firebase Blog](https://firebase.googleblog.com/)
 - [Firebase Stories](https://firebase.google.com/community/stories)
+- [Firebase Open Source](https://firebaseopensource.com/)
 
 ### Videos
 
-- [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-- [Build Games using JavaScript](https://youtu.be/ec8vSKJuZTk)
+- [Firebase Fundamentals](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR)
+- [Firebase: Full Course for beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
 
 ### Books
 
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Firebase Cookbook (Preview)](https://www.google.co.in/books/edition/_/mkFPDwAAQBAJ?hl=en&gbpv=1&pg=PP1)
 
 ---
 
@@ -119,7 +120,7 @@ You can checkout these additional resources to learn more about Firebase
 
 Here are few project ideas you can try out, these are just an inspiration to get started. Try to learn and build ideas that come to your mind.
 
-- Create a color palette generator
-- Build a countdown timer for your next birthday
-- Create a web app to display the details of your GitHub profile using GitHub API
-- Try out multiple JavaScript packages and libraries available and create interesting projects
+- Create a real-time chat application built with Firebase.
+- Develop a blog application built with Firebase.
+- Build a to-do list application with Firebase.
+- Try out multiple Firebase services and create interesting projects
