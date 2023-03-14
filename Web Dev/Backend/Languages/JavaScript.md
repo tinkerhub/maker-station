@@ -21,7 +21,7 @@ After completing this learning path you will be knowledgeable in:
 
 ## 🧑🏻‍💻 Programming Knowledge 
  
-You don't any pre-requisite knowledge for the first half of this learning path. However, a basic knowledge of **HTML and CSS** is required for the second half of the learning path.
+You don't need any pre-requisite knowledge for the first half of this learning path. However, a basic knowledge of **HTML and CSS** is required for the second half of the learning path.
 
 You can check out the [Web 101](https://github.com/tinkerhub/maker-station/blob/main/Web%20Dev/Web%20101.md) to learn about HTML and CSS.
 
