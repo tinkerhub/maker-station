@@ -87,6 +87,37 @@ A few projects you can build to implement the concepts you have learned above:
 
 - Create a Firebase project and integrate Firebase SDK into a mobile or web application
 
+### topic2
+
+**🎓 Topics to Learn**
+
+```
+- Firebase and its features
+- Creating a Firebase project
+- Setting up Firebase SDKs for different platforms
+```
+
+**🧑🏻‍💻 Learn from**
+
+_Videos_
+- [Introducing Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A)
+- [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI&t=68s)
+- [Getting started with Firebase on Apple platforms](https://www.youtube.com/watch?v=F9Gs_pfT3hs)
+- [Getting started with Firebase for the web](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
+
+
+_Articles/Blogs_
+- [Firebase: Get started](https://firebase.google.com)
+
+- [Firebase documentation](https://firebase.google.com/docs)
+
+
+**🛠️ Get into action**
+
+A few projects you can build to implement the concepts you have learned above:
+
+- Create a Firebase project and integrate Firebase SDK into a mobile or web application
+
 ---
 
 ## 🔖 Resource Pool
