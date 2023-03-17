@@ -87,12 +87,6 @@ A few projects you can build to implement the concepts you have learned above:
 
 - Create a Firebase project and integrate Firebase SDK into a mobile or web application
 
-- Build a project using any APIs:
-  - Create a web app to translate English to any other language. You can check out [Fun Translations API](https://funtranslations.com/) for some interesting languages.
-  - Create a web app to to display the current weather using Weather API.
-    - You can checkout [Public APIs](https://github.com/public-apis/public-apis) for a list APIs and try to build some cool projects with it.
-  - You will get an understanding about **_Fetch, Promises, Async/Await_**
-
 ---
 
 ## 🔖 Resource Pool
