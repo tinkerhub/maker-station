@@ -32,7 +32,7 @@ After completing this learning path you will be knowledgeable in:
 
 - You need a browser to follow along this learning path. You can choose browser of your choice. The preferred ones are listed below:
    -  **Google Chrome**
-      A browser based on V8 JavaScript engine with developer tools.
+      A browser by Google based on the open source Chromium web browser project with developer tools.
       [Install Google Chrome](https://www.google.com/chrome/)
 
 - **Create a Firebase account**: Go to the Firebase website and create an account. If you already have a Google account, you can use that to sign in.  
@@ -45,18 +45,16 @@ After completing this learning path you will be knowledgeable in:
 - **Set up Firebase services**: Firebase offers a range of services such as authentication, database, storage, and more. To use these services, you'll need to set them up in your Firebase project. Follow the prompts in the Firebase console to set up the services you need.
 
 - **Test your app**: Once you've set up Firebase and added the SDK to your app, you can test your app to make sure everything is working as expected. Firebase provides tools and documentation to help you test your app and troubleshoot any issues.
-- Alternatively, you can use the **Firebase Command Line Interface (CLI)** Tools that can be used to test, manage and deploy your Firebase project from the command line. Deploy code and assets to your Firebase projects. Run a local web server for your Firebase Hosting site. Interact with data in your Firebase database. [Firebase CLI reference](https://firebase.google.com/docs/cli)
+- Alternatively, you can use the **Firebase Command Line Interface (CLI)** Tools that can be used to test, manage and deploy your Firebase project from the command line. Deploy code and assets to your Firebase projects. Run a local web server for your Firebase Hosting site. Interact with data in your Firebase database. 
+[Firebase CLI reference](https://firebase.google.com/docs/cli)
   - **Node.js**
   Required to add cloud functions via Firebase CLI
-  [Install Node](https://nodejs.org/en/download/)
-
-  **_Note:_** Install the stable version
-
+  [Install Node LTS](https://nodejs.org/en/download/)
 ---
 
 ## 💡 Learning Session
 
-### Getting Started with Firebase
+### I. Getting Started with Firebase
 
 **🎓 Topics to Learn**
 
@@ -76,48 +74,129 @@ _Videos_
 
 
 _Articles/Blogs_
-- [Firebase: Get started](https://firebase.google.com)
-
-- [Firebase documentation](https://firebase.google.com/docs)
+- [Firebase: Getting started](https://firebase.google.com)
+- [Fundamentals | Firebase Documentation](https://firebase.google.com/docs/guides)
 
 
 **🛠️ Get into action**
 
-A few projects you can build to implement the concepts you have learned above:
+A project you can build to implement the concepts you have learned above:
 
 - Create a Firebase project and integrate Firebase SDK into a mobile or web application
 
-### topic2
+### II. Firebase Realtime Database
 
 **🎓 Topics to Learn**
 
 ```
-- Firebase and its features
-- Creating a Firebase project
-- Setting up Firebase SDKs for different platforms
+- Introduction to Firebase Realtime Database
+- Structuring your database
+- Reading and writing data
+- Security rules
 ```
 
 **🧑🏻‍💻 Learn from**
 
 _Videos_
-- [Introducing Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A)
-- [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI&t=68s)
-- [Getting started with Firebase on Apple platforms](https://www.youtube.com/watch?v=F9Gs_pfT3hs)
-- [Getting started with Firebase for the web](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
+- [Introducing Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA)
+- [Getting started with the Firebase Realtime Database](https://www.youtube.com/watch?v=pP7quzFmWBY)
+- [Firebase Realtime Database (Playlist)](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmgdxMEHar35Wo26fLWm9BI)
 
 
 _Articles/Blogs_
-- [Firebase: Get started](https://firebase.google.com)
-
-- [Firebase documentation](https://firebase.google.com/docs)
+- [Firebase Realtime Database docs](https://firebase.google.com/docs/database)
 
 
 **🛠️ Get into action**
 
-A few projects you can build to implement the concepts you have learned above:
+A project you can build to implement the concepts you have learned above:
 
-- Create a Firebase project and integrate Firebase SDK into a mobile or web application
+- Create a simple to-do list application that uses Firebase Realtime Database to store data.
 
+
+### III. Firebase Authentication
+
+**🎓 Topics to Learn**
+
+```
+- Introduction to Authentication
+- Creating users
+- Log in & Sign up using email & password
+- Login services from Google, Facebook and others
+- Accessing user data
+```
+
+**🧑🏻‍💻 Learn from**
+
+_Videos_
+- [What is Firebase Authentication?](https://www.youtube.com/watch?v=vBUk293QSKY)
+- [Getting started with Firebase Authentication](https://www.youtube.com/watch?v=rbuSx1yEgV8&t=4s)
+- [Firebase Auth Tutorial (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
+
+_Articles/Blogs_
+- [Firebase Authentication docs](https://firebase.google.com/docs/auth)
+
+
+**🛠️ Get into action**
+
+A project you can build to implement the concepts you have learned above:
+
+- Implement Firebase Authentication in your to-do list application
+
+### IV. Cloud Storage for Firebase
+
+**🎓 Topics to Learn**
+
+```
+- Storage API
+- Uploading files
+- Downloading files
+- Security rules
+```
+
+**🧑🏻‍💻 Learn from**
+
+_Videos_
+- [Introducing Cloud Storage for Firebase](https://www.youtube.com/watch?v=_tyjqozrEPY&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
+- [Getting started with Firebase Storage on the web](https://www.youtube.com/watch?v=-IFRVMEhZDc)
+
+_Articles/Blogs_
+- [Cloud Storage for Firebase docs](https://firebase.google.com/docs/storage)
+
+
+**🛠️ Get into action**
+
+A project you can build to implement the concepts you have learned above:
+
+- Modify your to-do list application to allow users to upload and download files.
+
+### V. Firebase Hosting
+
+**🎓 Topics to Learn**
+
+```
+- Introduction to Firebase Hosting
+- Deploying your application
+- Custom domains
+- SSL certificates
+```
+
+**🧑🏻‍💻 Learn from**
+
+_Videos_
+- [Firebase Hosting](https://www.youtube.com/watch?v=jsRVHeQd5kU&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
+- [Get started with Firebase Hosting](https://www.youtube.com/watch?v=P0x0LmiknJc)
+- [Firebase Hosting (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9he0kHAyiyr3dDO2xw0NWoP)
+
+_Articles/Blogs_
+- [Firebase Hosting docs](https://firebase.google.com/docs/hosting)
+
+
+**🛠️ Get into action**
+
+A project you can build to implement the concepts you have learned above:
+
+- Deploy your to-do list application using Firebase Hosting.
 ---
 
 ## 🔖 Resource Pool
@@ -129,11 +208,12 @@ You can checkout these additional resources to learn more about Firebase
 - [The Firebase Blog](https://firebase.googleblog.com/)
 - [Firebase Stories](https://firebase.google.com/community/stories)
 - [Firebase Open Source](https://firebaseopensource.com/)
-- [Learning Resources](https://firebase.google.com/community/learn)
+- [Learning Pathways](https://firebase.google.com/community/learn)
 ### Videos
 
 - [Firebase Fundamentals](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR)
 - [Firebase: Full Course for beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
+- [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0)
 
 ### Books
 
@@ -153,8 +233,6 @@ You can checkout these additional resources to learn more about Firebase
 
 Here are few project ideas you can try out, these are just an inspiration to get started. Try to learn and build ideas that come to your mind.
 
-- Create a real-time chat application built with Firebase. [(link)](https://github.com/firebase/codelab-friendlychat-web)
-- Buit an e-commerce website with Firebase.
-- Develop a blog application built with Firebase. [(link)](https://github.com/firebase/friendlyeats-web)
-- Build a TodoApp using ReactJS and Firebase [(link)](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
-- Try out multiple Firebase services and create interesting projects
+- Create a Real-time chat application built with Firebase. [(link)](https://github.com/firebase/codelab-friendlychat-web)
+- Develop a Blog application built with Firebase. [(link)](https://github.com/firebase/friendlyeats-web)
+- Build a To-Do app using React and Firebase [(link)](https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/)
