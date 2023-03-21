@@ -48,56 +48,51 @@ That's it! After following these steps, you should have a working installation o
 
 ## 💡 Learning Session
 
-### Format
+### Topics to Learn
 
-- Topics to Learn
-- Resources to learn the mentioned topics
-- A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
+- Variables and Data Types
+- Control Structures
+- Functions and Packages
+- Pointers and Memory Management
+- Error Handling
+- Concurrency
+- Testing
 
-  - Activity
+### Resources to Learn
 
-    - Making an API call after learning **fetch** in JavaScript
+- [Tour of Go](https://go.dev/tour/welcome/1) - an interactive tutorial for beginners
+- [A Tour of Go](https://www.golang-book.com/books/intro) - a beginner-friendly book on Go programming
+- [Effective Go](https://go.dev/doc/effective_go) - a guide to writing idiomatic Go code
+- [The Go Programming Language](https://www.gopl.io/) - an in-depth book on Go programming
+- [Go by Example](https://gobyexample.com/)- Personal Favourite
 
-  - Project
+### Learning Activity
 
-    - Build a simple web app using GitHub API to display the Avatar, no: of repositories when the GitHub username is given.(After learning basic HTML/CSS and JavaScript)
+- Code-along: Follow a beginner-friendly tutorial on building a simple Go program.
+- Practice: Write a program that accepts user input and performs some operations using the basic control structures and data types.
 
-**Note:**
+### Small Project
 
-- It's good to split the topics to learn into different section followed by activities as mentioned above.
-
----
+Build a simple command-line tool that reads a CSV file, performs some simple data analysis, and displays the results. This project will help you learn how to work with files, data structures, and packages in Go.
+Learning GoLang can be challenging, but with the right resources and a willingness to practice, you can become proficient in the language. Good luck and happy coding!
 
 ## 🔖 Resource Pool
 
-You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about the technology and the communities to connect and network with people working on the specified technology
-
 ### Articles/Blogs
 
--
--
+- [Getting started with golang](https://www.educative.io/blog/golang-tutorial)
+- [The go handbook](https://www.freecodecamp.org/news/go-beginners-handbook/)
+- [Writing web applications ](https://go.dev/doc/articles/wiki/)
 
 ### Videos
 
--
--
-
-### Books (Optional)
-
--
--
-
-### Newsletters (Optional)
-
--
--
-
-### Communities (Optional)
-
----
+- [Learn go lang (free code camp)](https://youtu.be/YS4e4q9oBaU)
+- [Eleven go projects](https://youtu.be/jFfo23yIWac)
+- [Go complete series](https://youtu.be/JoJ8Sw5Yb4c)
 
 ## 🚀 Project Pool
 
-You can list the project ideas the person could try out and build using the technology mentioned in the learning path.
-
-**Good to have** :A few demo project links for the persons reference
+- Build a cli with golang
+- Build a web server with golang and frameworks like fiber or gin
+- Web scraper: Build a web scraper that retrieves information from a website and saves it to a file or database. You can use the "net/http" and "html" packages to extract information from the HTML code.
+- URL shortener: Build a simple URL shortener that converts long URLs to short URLs. You can use the "net/http" package to create an HTTP server and the "encoding/base64" package to encode and decode URLs.
