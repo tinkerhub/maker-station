@@ -112,13 +112,23 @@ python manage.py runserver
 - Authentication
     - Creating Login and signup forms
     - Session handling
+
+- Extensions
+    - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)
+    
+    - [Django Storages](https://django-storages.readthedocs.io/en/latest/)
+
+    - [Django Channels](https://channels.readthedocs.io/en/stable/)
+
+    - [Django-allauth](https://www.intenct.nl/projects/django-allauth/)
+
 - Hosting
     - Gunicorn
     - NGINX
     - PostgreSQL
     - Docker
 
-    
+
 ### Learn from
 
 #### Videos
@@ -137,14 +147,13 @@ python manage.py runserver
 
 ### 🛠️ Get into action
 
-A few projects you can build to implement the concepts you have learned above:
+Small and Easy projects to test what you have learned so far
 
 - Create a simple todo-list. Use django models to store to the database. 
-    - You will get understanding of templates and Models
 
-- Create a microblog using all the features we learned. ie, templates, models, authentication, database models. Try to add features like comments, likes etc.
+- Create a owner-pet model to understand database relationship (Use the admin interface to add and delete data)
 
-- Create an E-Commerce application. Get familiar with integrating payment gateway checkout [Razorpay](https://razorpay.com/) and [stripe](https://stripe.com/)
+- Use a css framework like [bootstrap](https://getbootstrap.com/) to create a base template, Extend the view and generate dynamic contents using data from the database
 
 ---
 ## 🔖 Resource Pool
@@ -167,3 +176,11 @@ A few projects you can build to implement the concepts you have learned above:
 - [Django Forum](https://forum.djangoproject.com/)
 ---
 ## 🚀 Project Pool
+
+
+A few projects you can build to implement the concepts you have learned above:
+
+
+- Create a microblog using all the features we learned. ie, templates, models, authentication, database models. Try to add features like comments, likes etc.
+
+- Create an E-Commerce application. Get familiar with integrating payment gateway checkout [Razorpay](https://razorpay.com/) and [stripe](https://stripe.com/)
