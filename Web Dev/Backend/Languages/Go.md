@@ -32,7 +32,7 @@ There is no prerequesite in learning go lang , but familarity of basic programmi
 
 ## 📲 Installation and Setup
 
-- Download Go: Visit the official Go website at golang.org and download the appropriate installer for your operating system.
+- [Download Go](https://go.dev/): Visit the official Go website at golang.org and download the appropriate installer for your operating system.
 
 - Install Go: Run the installer and follow the prompts to install Go on your machine.
 
@@ -41,6 +41,7 @@ There is no prerequesite in learning go lang , but familarity of basic programmi
 - Verify the installation: To verify that Go has been installed correctly, open a command prompt and run the command go version. This should display the version of Go that you have installed.
 
 - Optional: Install a Go editor or IDE: While it's possible to write Go code in any text editor, you may want to install a specialized Go editor or integrated development environment (IDE) to take advantage of features like syntax highlighting, code completion, and debugging.
+  the preferred ide for golang is Vscode or goland by jetbrains
 
 That's it! After following these steps, you should have a working installation of Go on your machine and be ready to start writing and running Go code.
 
@@ -96,3 +97,9 @@ Learning GoLang can be challenging, but with the right resources and a willingne
 - Build a web server with golang and frameworks like fiber or gin
 - Web scraper: Build a web scraper that retrieves information from a website and saves it to a file or database. You can use the "net/http" and "html" packages to extract information from the HTML code.
 - URL shortener: Build a simple URL shortener that converts long URLs to short URLs. You can use the "net/http" package to create an HTTP server and the "encoding/base64" package to encode and decode URLs.
+
+## LIVE PROJECTS
+
+- [api showcase](https://github.com/eldimious/golang-api-showcase)
+- [go rest api with Gin,Gorm,Postgres and Mysql](https://github.com/victorsteven/Forum-App-Go-Backend)
+- [go gin examples](https://github.com/gin-gonic/examples)
