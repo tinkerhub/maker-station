@@ -1,8 +1,8 @@
 ## What is  Express.js ❓
-Express.js helps you build web applications by providing a set of tools and features that make it easy to handle HTTP requests and responses, create routes, manage middleware, and integrate with databases. It is a web framework application for [**🎨 Node JS**](../../../FrontEnd/).
+Express.js helps you build web applications by providing a set of tools and features that make it easy to handle HTTP requests and responses, create routes, manage middleware, and integrate with databases. It is a web framework application for 🎨 Node JS
 
 ## Why learn Express.js ❓
-First of all, Express.js is easy to learn and use. It is highly flexible and can be used to build a wide range of web applications. Moreover, it is built of top of [**🎨 Node JS**](../../../FrontEnd/) making it more fast and efficient for building web applications.
+First of all, Express.js is easy to learn and use. It is highly flexible and can be used to build a wide range of web applications. Moreover, it is built of top of 🎨 Node JS  making it more fast and efficient for building web applications.
 
 ## 🎓 Skills you can Master
 After completing this learning path, you will be knowledgable in:
@@ -80,6 +80,35 @@ Basically, Node.js and Express.js go hand-in-hand. So, all the tutorials for [**
 - [Express.js: Fundamentals, by Edureka](https://medium.com/edureka/expressjs-tutorial-795ad6e65ab3)  
 
 - [Official Documentation](https://expressjs.com/)
+
+## 🔖 Resource Pool
+
+You can checkout these additional resources to learn more about Express JS
+
+### Articles/Blogs
+- [What is Express.js-Everything you need to know](https://kinsta.com/knowledgebase/what-is-express-js/)
+
+### Videos
+- [Express.js-Full Tutorial](https://www.youtube.com/playlist?list=PLp50dWW_m40Vruw9uKGNqySCNFLXK5YiO)
+All the videos mentioned in Node.js can also be used
+
+---
+## 🚀 Project Pool
+
+Here are few project ideas you can try out, these are just an inspiration to get started. Try to learn and build ideas that come to your mind.
+
+- [Simple weather app using Node.js and Express.js](https://www.youtube.com/watch?v=nc3IoAiu-ew)
+
+- A Blog App: It can be used for saving your various blogs or quotes in a database and view them when required. It can be implemented using Express and  [Mongo DB](../../Databases/MongoDB.md) 
+
+*Working with external libraries:*  
+ Other than the ones mentioned in the Node.js roadmap, you can try out integrating other APIs like:
+- [Airtable API](https://airtable.com/developers/web/api/introduction): Create an extension for maintaining notes and storing it in the Airtable cloud. 
+
+- [OpenAI API](https://platform.openai.com/docs/introduction/overview): Try integrating chat gpt into a Node.js application [check it out](https://www.youtube.com/watch?v=_gQITRGs4y0).
+
+*Don't limit yourself to these ideas. Feel free to explore your own and try them out*
+
 
 
 
