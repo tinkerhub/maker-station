@@ -89,16 +89,25 @@ Build a simple weather app that displays the current weather conditions using a 
 ## 🔖 Resource Pool
 ### Articles/Blogs
 Flutter Blog: https://medium.com/flutter
+
 Flutter Community: https://fluttercommunity.dev/
+
 Flutter by Google: https://developers.googleblog.com/flutter/
+
 Flutter Explained: https://flutter-explained.dev/
+
 Flutter Weekly: https://flutterweekly.net/
+
 Reso Coder: https://resocoder.com/category/tutorials/flutter/
+
 Flutter Dev: https://flutter.dev/docs/development
 ### Videos
 Flutter YouTube Channel: https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
+
 Flutter & Firebase App Build: https://www.youtube.com/watch?v=knMvKPKBzGE
+
 Flutter Widgets 101: https://www.youtube.com/watch?v=Olj9t1ZBtF0
+
 Flutter Animation Tutorial: https://www.youtube.com/watch?v=I-20MRF1lCQ
 ### Books
 - Flutter in Action by Eric Windmill
@@ -106,30 +115,40 @@ Flutter Animation Tutorial: https://www.youtube.com/watch?v=I-20MRF1lCQ
 - Flutter Cookbook: Recipes for building fast, reliable, and effective applications for mobile and beyond by Wm. Leler
 ### Newsletters
 Flutter Weekly: https://flutterweekly.net/
+
 Flutter Community Newsletter: https://fluttercommunity.dev/newsletter/
+
 Flutter Dev Weekly: https://www.flutterdevweekly.com/
 ### Communities
 Flutter Community: https://fluttercommunity.dev/
+
 Flutter Dev Community: https://flutter.dev/community
+
 Flutter Discord: https://discord.gg/n7Yshp4
+
 Flutter Gitter: https://gitter.im/flutter/flutter
 ---
 ## 🚀 Project Pool
 
 - Flutter Login Screen: A basic login screen that allows users to enter their email and password.
-Demo project: https://github.com/afgprogrammer/Flutter-Login-Signup-page
+
+   Demo project: https://github.com/afgprogrammer/Flutter-Login-Signup-page
 
 - Flutter Todo App: A simple app that allows users to create and manage a list of tasks.
-Demo project: https://github.com/asjqkkkk/flutter-todos
+
+   Demo project: https://github.com/asjqkkkk/flutter-todos
 
 - Flutter Calculator App: A basic calculator app that allows users to perform simple arithmetic operations.
-Demo project: https://github.com/shubhamhackz/flutter-calculator
+  
+   Demo project: https://github.com/shubhamhackz/flutter-calculator
 
 - Flutter Quiz App: An app that allows users to take a quiz and displays the results at the end.
-Demo project: https://github.com/abuanwar072/Quiz-App-Flutter
+ 
+   Demo project: https://github.com/abuanwar072/Quiz-App-Flutter
 
 - Flutter Messaging App: A basic messaging app that allows users to send and receive messages.
-Demo project: https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
+
+   Demo project: https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
 
 
 
