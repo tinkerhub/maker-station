@@ -92,15 +92,12 @@ Flutter Blog: https://medium.com/flutter
 
 Flutter Community: https://fluttercommunity.dev/
 
-Flutter by Google: https://developers.googleblog.com/flutter/
+Flutter by Google: https://developers.googleblog.com/search?q=flutter&max-results=12
 
 Flutter Explained: https://flutter-explained.dev/
 
-Flutter Weekly: https://flutterweekly.net/
-
 Reso Coder: https://resocoder.com/category/tutorials/flutter/
 
-Flutter Dev: https://flutter.dev/docs/development
 ### Videos
 Flutter YouTube Channel: https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 
@@ -114,19 +111,15 @@ Flutter Animation Tutorial: https://www.youtube.com/watch?v=I-20MRF1lCQ
 - Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter and Dart 2 by Scott Lahteine
 - Flutter Cookbook: Recipes for building fast, reliable, and effective applications for mobile and beyond by Wm. Leler
 ### Newsletters
-Flutter Weekly: https://flutterweekly.net/
+Flutter Weekly: https://newsletter.flutterdeveloperweekly.com/
 
-Flutter Community Newsletter: https://fluttercommunity.dev/newsletter/
-
-Flutter Dev Weekly: https://www.flutterdevweekly.com/
 ### Communities
 Flutter Community: https://fluttercommunity.dev/
 
-Flutter Dev Community: https://flutter.dev/community
+Flutter Dev Community: https://dev.to/t/flutter
 
-Flutter Discord: https://discord.gg/n7Yshp4
+Flutter Discord: https://discord.com/invite/zsFFgvacks
 
-Flutter Gitter: https://gitter.im/flutter/flutter
 ---
 ## 🚀 Project Pool
 
