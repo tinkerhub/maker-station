@@ -93,6 +93,8 @@ You need a code editor,browser and **Node.js** to follow along this learning pat
 **🎓 Topics to Learn**
 ```
 - Create React App
+- vite
+- Next js
 - Function Components
 - Class Components
 - JSX
@@ -108,11 +110,14 @@ You need a code editor,browser and **Node.js** to follow along this learning pat
 
 *Videos*
 - [React JS for beginners](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [Vite](https://www.youtube.com/watch?v=vr-I2HIVmTw)
+- [Next js](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 
 <!-- **Note:** You can refer the JavaScript for beginners to learn about promises. -->
 
 *Articles/Blogs*
 - [Fundamentals of React on Freecodecamp](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/)
+- [Vite](https://www.telerik.com/blogs/whats-vite-guide-modern-super-fast-project-tooling)
 
 ### Advanced Topics in React
 
@@ -216,21 +221,26 @@ You need a code editor,browser and **Node.js** to follow along this learning pat
 A few projects you can build to implement the concepts you have learned above:
 - Todo App - A simple todo list app that allows users to add and delete tasks. 
     - This project will help beginners get a grasp of React's basic concepts such as components, state, and props.
+    - [Repo for example](https://github.com/briancodex/react-todo-app-v1)
 - Weather App - A weather app that displays the current weather conditions and forecast for a specific location. 
     - This project will require API integration and intermediate-level knowledge of React.
+    - [Repo for example](https://github.com/gauravghai/weatherApp-Reactjs)
 - E-commerce Website - A full-fledged e-commerce website with features such as product listing, filtering, sorting, cart, and checkout. 
     - This project will require advanced-level knowledge of React, state management libraries like Redux or MobX, and backend integration.
+    - [Repo for example](https://github.com/safak/youtube/tree/react-shop-ui)
 - Social Media Platform - A social media platform where users can create profiles, connect with friends, post updates, and comment on each other's posts. 
     - This project will require advanced-level knowledge of React, backend integration, and server-side rendering.
+    - [Repo for example](https://github.com/safak/youtube/tree/react-social-ui)
 - Real-Time Chat Application - A real-time chat application where users can communicate with each other in real-time.   
     - This project will require advanced-level knowledge of React, backend integration, WebSockets, and server-side rendering.
+    - [Repo for example](https://github.com/safak/youtube2022/tree/react-chat)
 
 ---
 ## 🔖 Resource Pool
 You can checkout these additional resources to learn more about React JS
 
 ### Articles/Blogs
-- [React JS Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+- [React JS Documentation](https://react.dev/)
 - [Timeline for learning React JS](https://daveceddia.com/timeline-for-learning-react/)
 - [Developer productivity links from the react experts](https://daveceddia.com/timeline-for-learning-react/)
 
