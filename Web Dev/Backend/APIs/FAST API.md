@@ -46,20 +46,17 @@ After completing this learning path you will be knowledgeable in:
 
 ## 🛠️ Prerequisites
 
-It can be divided into two categories **Programming Knowledge** and **Installation and Setup**
-
-## 🧑🏻‍💻 Programming Knowledge
-
-List down any programming prerequisites the person should know.
-Eg: JavaScript as a prerequisite for ReactJS
+To get started with FastAPI, you should have some basic programming knowledge and be familiar with Python 3.7+ 🐍. Additionally, it's recommended to have an understanding of HTTP and RESTful API principles.
 
 ## 📲 Installation and Setup
 
-List down the softwares and libraries to be installed before proceeding with the learning path. Clearly mention the sites(link) to install the required softwares and libraries.
+To install FastAPI, you can use **pip**, Python's package manager. Run the following command in your terminal:
 
-Eg: Node is required for ReactJS
+`pip install fastapi`
 
----
+Unlike the Flask framework, FastAPI doesn't contain any built-in development server. Hence, you will have the need to install **Uvicorn**, a lightning-fast ASGI server, to run the FastAPI application.
+
+## `pip install uvicorn[standard]`
 
 ## 💡 Learning Session
 
