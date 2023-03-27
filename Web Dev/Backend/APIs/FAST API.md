@@ -56,7 +56,7 @@ To install FastAPI, you can use **pip**, Python's package manager. Run the follo
 
 Unlike the Flask framework, FastAPI doesn't contain any built-in development server. Hence, you will have the need to install **Uvicorn**, a lightning-fast ASGI server, to run the FastAPI application.
 
-## `pip install uvicorn[standard]`
+`pip install uvicorn[standard]`
 
 ## 💡 Learning Session
 
