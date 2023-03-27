@@ -28,23 +28,23 @@ You'll be able to implement user authentication and authorization features to se
 
 ## 📲 Installation and Setup
 
-- Flutter SDK - The main development environment for Flutter. Download it from the official Flutter website: https://flutter.dev/docs/get-started/install
+- Flutter SDK - The main development environment for Flutter. Download it from the official [Flutter website](https://flutter.dev/docs/get-started/install)
 
-- Android Studio or Visual Studio Code - The IDEs recommended for Flutter development. Download Android Studio from here: https://developer.android.com/studio or Visual Studio Code from here: https://code.visualstudio.com/
+- Android Studio or Visual Studio Code - The IDEs recommended for Flutter development. Download [Android Studio]( https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
-- Git - Version control system used for managing source code. Download it from here: https://git-scm.com/downloads
+- Git - Version control system used for managing source code. [Download git](https://git-scm.com/downloads)
 ---
 
 ## 💡 Learning Session
 
-### Format
+
 ### Topics to Learn
 1. Flutter Fundamentals
 2. Flutter with Firebase
 3. Flutter Packages and Plugins
 4. Flutter UI/UX Design
 5. Flutter Deployment
-### Resources to Learn the Mentioned Topics
+
 ###### Here are some recommended resources to learn the above topics:
 
 ### 1. Flutter Fundamentals
@@ -68,7 +68,7 @@ You'll be able to implement user authentication and authorization features to se
 ###  5.Flutter Deployment
 - [Deploying to Android: ](https://flutter.dev/docs/deployment/android)
 - [Deploying to iOS]( https://flutter.dev/docs/deployment/ios)
-[Flutter App Distribution:]( https://appdistribution.firebase.dev/)
+- [Flutter App Distribution:]( https://appdistribution.firebase.dev/)
 ##### Activities
 Here are some activities/projects you can work on to apply what you learn:
 
@@ -88,60 +88,59 @@ Build a simple weather app that displays the current weather conditions using a 
 ---
 ## 🔖 Resource Pool
 ### Articles/Blogs
-Flutter Blog: https://medium.com/flutter
+[Flutter Blog]( https://medium.com/flutter)
 
-Flutter Community: https://fluttercommunity.dev/
+[Flutter Community]( https://fluttercommunity.dev/)
 
-Flutter by Google: https://developers.googleblog.com/search?q=flutter&max-results=12
+[Flutter by Google]( https://developers.googleblog.com/search?q=flutter&max-results=12)
 
-Flutter Explained: https://flutter-explained.dev/
+[Flutter Explained]( https://flutter-explained.dev/)
 
-Reso Coder: https://resocoder.com/category/tutorials/flutter/
+[Reso Coder]( https://resocoder.com/category/tutorials/flutter/)
 
 ### Videos
-Flutter YouTube Channel: https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
+[Flutter YouTube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
 
-Flutter & Firebase App Build: https://www.youtube.com/watch?v=knMvKPKBzGE
+[Flutter & Firebase App Build ](https://www.youtube.com/watch?v=knMvKPKBzGE)
 
-Flutter Widgets 101: https://www.youtube.com/watch?v=Olj9t1ZBtF0
+[Flutter Widgets 101 ](https://www.youtube.com/watch?v=Olj9t1ZBtF0)
 
-Flutter Animation Tutorial: https://www.youtube.com/watch?v=I-20MRF1lCQ
+[Flutter Animation Tutorial]( https://www.youtube.com/watch?v=I-20MRF1lCQ)
 ### Books
 - Flutter in Action by Eric Windmill
 - Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter and Dart 2 by Scott Lahteine
 - Flutter Cookbook: Recipes for building fast, reliable, and effective applications for mobile and beyond by Wm. Leler
 ### Newsletters
-Flutter Weekly: https://newsletter.flutterdeveloperweekly.com/
+[Flutter Weekly](https://newsletter.flutterdeveloperweekly.com/)
 
 ### Communities
-Flutter Community: https://fluttercommunity.dev/
+[Flutter Community ](https://fluttercommunity.dev/)
 
-Flutter Dev Community: https://dev.to/t/flutter
+[Flutter Dev Community]( https://dev.to/t/flutter)
 
-Flutter Discord: https://discord.com/invite/zsFFgvacks
+[Flutter Discord]( https://discord.com/invite/zsFFgvacks)
 
 ---
 ## 🚀 Project Pool
 
-- Flutter Login Screen: A basic login screen that allows users to enter their email and password.
+- [Flutter Login Screen](https://github.com/afgprogrammer/Flutter-Login-Signup-page): A basic login screen that allows users to enter their email and password.
 
-   Demo project: https://github.com/afgprogrammer/Flutter-Login-Signup-page
 
-- Flutter Todo App: A simple app that allows users to create and manage a list of tasks.
 
-   Demo project: https://github.com/asjqkkkk/flutter-todos
+- [Flutter Todo App](https://github.com/asjqkkkk/flutter-todos):  A simple app that allows users to create and manage a list of tasks.
 
-- Flutter Calculator App: A basic calculator app that allows users to perform simple arithmetic operations.
+
+
+- [Flutter Calculator App](https://github.com/shubhamhackz/flutter-calculator): A basic calculator app that allows users to perform simple arithmetic operations.
   
-   Demo project: https://github.com/shubhamhackz/flutter-calculator
-
-- Flutter Quiz App: An app that allows users to take a quiz and displays the results at the end.
  
-   Demo project: https://github.com/abuanwar072/Quiz-App-Flutter
 
-- Flutter Messaging App: A basic messaging app that allows users to send and receive messages.
+- [Flutter Quiz App](https://github.com/abuanwar072/Quiz-App-Flutter): An app that allows users to take a quiz and displays the results at the end.
+ 
 
-   Demo project: https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
+- [Flutter Messaging App](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme): A basic messaging app that allows users to send and receive messages.
+
+
 
 
 
