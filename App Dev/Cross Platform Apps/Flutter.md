@@ -48,27 +48,27 @@ You'll be able to implement user authentication and authorization features to se
 ###### Here are some recommended resources to learn the above topics:
 
 ### 1. Flutter Fundamentals
- - [Flutter Documentation:]( https://flutter.dev/docs)
+ - [Flutter Documentation]( https://flutter.dev/docs)
 - [Flutter Bootcamp with Dart]( https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 - [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
  - [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 ###  2. Flutter with Firebase
-- [Firebase Documentation:]( https://firebase.google.com/docs)
-- [Firebase Flutter Codelab:](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
-- [ Firebase Flutter Course:](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
-- [FlutterFire: ](https://firebase.flutter.dev/)
+- [Firebase Documentation]( https://firebase.google.com/docs)
+- [Firebase Flutter Codelab](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
+- [ Firebase Flutter Course](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+- [FlutterFire](https://firebase.flutter.dev/)
 ###  3.Flutter Packages and Plugins
-- [Flutter Packages:]( https://pub.dev/flutter)
+- [Flutter Packages]( https://pub.dev/flutter)
 - [Flutter Plugins]( https://flutter.dev/docs/development/packages-and-plugins)
 ###  4.Flutter UI/UX Design
-- [Flutter Documentation:]( https://flutter.dev/docs)
-- [Flutter for Designers:](https://flutterfordesigners.com/)
+- [Flutter Documentation]( https://flutter.dev/docs)
+- [Flutter for Designers](https://flutterfordesigners.com/)
 - [Flutter UI Challenges]( https://flutterui.co/)
-- [Flutter Layout Cheat Sheet:](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+- [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 ###  5.Flutter Deployment
-- [Deploying to Android: ](https://flutter.dev/docs/deployment/android)
+- [Deploying to Android ](https://flutter.dev/docs/deployment/android)
 - [Deploying to iOS]( https://flutter.dev/docs/deployment/ios)
-- [Flutter App Distribution:]( https://appdistribution.firebase.dev/)
+- [Flutter App Distribution]( https://appdistribution.firebase.dev/)
 ##### Activities
 Here are some activities/projects you can work on to apply what you learn:
 
