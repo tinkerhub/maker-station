@@ -202,3 +202,10 @@ Resources to learn the mentioned topics:
 - File sharing Application
 
 	- Create an online file-sharing app. MongoDB provides cloud storage which makes it easy to store any file to share. This will work the same way google drive and dropbox work. You can build space to upload a file. Users would be able to upload and download whenever they wish to.
+
+- App to publish writings online
+	- App that lets users upload private and public stories. Public stories are to be viewed by all users. Users can edit and delete their stories. 
+	- [Link to repo](https://github.com/bradtraversy/storybooks/)
+
+- Recipe manager
+	- A recipe manager application that stores recipes and allows users to search, filter, and save recipes based on ingredients and cuisine. 
