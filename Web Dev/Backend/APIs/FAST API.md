@@ -46,7 +46,7 @@ After completing this learning path you will be knowledgeable in:
 
 ## 🛠️ Prerequisites
 
-To get started with FastAPI, you should have some basic programming knowledge and be familiar with Python 3.7+ 🐍. Additionally, it's recommended to have an understanding of HTTP and RESTful API principles.
+To get started with FastAPI, you should have some basic programming knowledge and be familiar with Python 3.7+ 🐍. Additionally, it's recommended to have an understanding of [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) and [RESTful](https://restfulapi.net/) API principles.
 
 ## 📲 Installation and Setup
 
@@ -59,11 +59,22 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 `pip install uvicorn[standard]`
 
 ## 💡 Learning Session
+### Basic call on FastAPI
 
-### Format
+```
+- Understanding API architecture and how it works
+- Creating a simple API and using interactive API docs
+- Path and Query Parameters
+- Forms and Files 
+- Jinja2 Templates and Async Databases
+- Testing with FastAPI
+```
+#### 🧑🏻‍💻 Learn from
 
-- Topics to Learn
-- Resources to learn the mentioned topics
+_Videos_
+
+
+
 - A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
 
   - Activity
