@@ -54,23 +54,23 @@ Eg: Node is required for ReactJS
 
 You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about  the technology and the communities to connect and network with people working on the specified technology
 
-### Articles/Blogs
+### 📄 Articles/Blogs
 -
 -
 
-### Videos
+### 📽️ Videos
 -
 -
 
-### Books (Optional)
+### 📚 Books (Optional)
 -
 -
 
-### Newsletters (Optional)
+### 🗞️ Newsletters (Optional)
 -
 -
 
-### Communities (Optional)
+### 🫂 Communities (Optional)
 
 ---
 ## 🚀 Project Pool

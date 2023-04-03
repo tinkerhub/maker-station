@@ -28,11 +28,12 @@ You'll be able to implement user authentication and authorization features to se
 
 ## 📲 Installation and Setup
 
-- Flutter SDK - The main development environment for Flutter. Download it from the official [Flutter website](https://flutter.dev/docs/get-started/install)
+- `Flutter SDK` - The main development environment for Flutter. Download it from the official [Flutter website](https://flutter.dev/docs/get-started/install)
 
-- Android Studio or Visual Studio Code - The IDEs recommended for Flutter development. Download [Android Studio]( https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+- `Android Studio` or `Visual Studio Code` - The IDEs recommended for Flutter development. 
+    - Download [Android Studio]( https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
-- Git - Version control system used for managing source code. [Download git](https://git-scm.com/downloads)
+- `Git` - Version control system used for managing source code. [Download git](https://git-scm.com/downloads)
 ---
 
 ## 💡 Learning Session
@@ -45,7 +46,7 @@ You'll be able to implement user authentication and authorization features to se
 4. Flutter UI/UX Design
 5. Flutter Deployment
 
-###### Here are some recommended resources to learn the above topics:
+> ### Here are some recommended resources to learn the above topics:
 
 ### 1. Flutter Fundamentals
  - [Flutter Documentation]( https://flutter.dev/docs)
@@ -69,56 +70,60 @@ You'll be able to implement user authentication and authorization features to se
 - [Deploying to Android ](https://flutter.dev/docs/deployment/android)
 - [Deploying to iOS]( https://flutter.dev/docs/deployment/ios)
 - [Flutter App Distribution]( https://appdistribution.firebase.dev/)
-##### Activities
+---
+## 🛠️ Activities
 Here are some activities/projects you can work on to apply what you learn:
 
-##### Activity 1: Build a Counter App
+### 🛠️ Activity 1: Build a Counter App
 Build a simple counter app that increments or decrements the count when the user taps a button.
 
-#####  Activity 2: Build a Chat App with Firebase
+###  🛠️ Activity 2: Build a Chat App with Firebase
 Build a simple chat app with Firebase Cloud Firestore and Firebase Authentication. Users can sign in, send messages, and receive real-time updates.
 
-#####  Activity 3: Use an API Call to Display Data
+### 🛠️ Activity 3: Use an API Call to Display Data
 Use the http package to make an API call and display the results in a ListView.
 
-#####  Project: Build a Weather App
+### 🛠️  Project: Build a Weather App
 Build a simple weather app that displays the current weather conditions using a custom-designed UI.
 
 
 ---
 ## 🔖 Resource Pool
-### Articles/Blogs
-[Flutter Blog]( https://medium.com/flutter)
+---
+### 📄 Articles/Blogs
+- [Flutter Blog]( https://medium.com/flutter)
 
-[Flutter Community]( https://fluttercommunity.dev/)
+- [Flutter Community]( https://fluttercommunity.dev/)
 
-[Flutter by Google]( https://developers.googleblog.com/search?q=flutter&max-results=12)
+- [Flutter by Google]( https://developers.googleblog.com/search?q=flutter&max-results=12)
 
-[Flutter Explained]( https://flutter-explained.dev/)
+- [Flutter Explained]( https://flutter-explained.dev/)
 
-[Reso Coder]( https://resocoder.com/category/tutorials/flutter/)
+- [Reso Coder]( https://resocoder.com/category/tutorials/flutter/)
+---
+### 📽️ Videos
+- [Flutter YouTube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
 
-### Videos
-[Flutter YouTube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+- [Flutter & Firebase App Build ](https://www.youtube.com/watch?v=knMvKPKBzGE)
 
-[Flutter & Firebase App Build ](https://www.youtube.com/watch?v=knMvKPKBzGE)
+- [Flutter Widgets 101 ](https://www.youtube.com/watch?v=Olj9t1ZBtF0)
 
-[Flutter Widgets 101 ](https://www.youtube.com/watch?v=Olj9t1ZBtF0)
+- [Flutter Animation Tutorial]( https://www.youtube.com/watch?v=I-20MRF1lCQ)
+---
+### 📚 Books
+- **Flutter in Action** by Eric Windmill
+- **Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter and Dart 2** by Scott Lahteine
+- **Flutter Cookbook: Recipes for building fast, reliable, and effective applications for mobile and beyond** by Wm. Leler
+---
+### 🗞️ Newsletters
+- [Flutter Weekly](https://newsletter.flutterdeveloperweekly.com/)
 
-[Flutter Animation Tutorial]( https://www.youtube.com/watch?v=I-20MRF1lCQ)
-### Books
-- Flutter in Action by Eric Windmill
-- Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter and Dart 2 by Scott Lahteine
-- Flutter Cookbook: Recipes for building fast, reliable, and effective applications for mobile and beyond by Wm. Leler
-### Newsletters
-[Flutter Weekly](https://newsletter.flutterdeveloperweekly.com/)
+### 🫂 Communities
+- [Flutter Community ](https://fluttercommunity.dev/)
 
-### Communities
-[Flutter Community ](https://fluttercommunity.dev/)
+- [Flutter Dev Community]( https://dev.to/t/flutter)
 
-[Flutter Dev Community]( https://dev.to/t/flutter)
-
-[Flutter Discord]( https://discord.com/invite/zsFFgvacks)
+- [Flutter Discord]( https://discord.com/invite/zsFFgvacks)
 
 ---
 ## 🚀 Project Pool

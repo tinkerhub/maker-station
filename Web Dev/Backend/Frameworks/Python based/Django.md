@@ -5,7 +5,7 @@
 ---
 ## 🎓 Take Away Skills
 
-After completing this learning path you will be knowledgeble in:
+After completing this learning path you will be knowledgeable in:
 
 - django-admin cli
 - handle HTTP request and response
@@ -22,13 +22,13 @@ After completing this learning path you will be knowledgeble in:
 
 Before learning django, there are a few prerequisites that you should have a basic understanding of:
 
-  - **Python** : You need to have a good grasp of python which include, datatypes, variables, functions, lists, control structures, classes and objects.
+  - **Python** : You need to have a good grasp of python which include, data types, variables, functions, lists, control structures, classes and objects.
 
   - **HTML, CSS and JS** : To build a web application with django, you need to have basic understanding of HTML, CSS and Javascript.
 
 ## 📲 Installation and Setup
 
-You need to install a code editor, browser and a python interpreter to follow along this path. You can choose editor and browser of your choce, the prefered ones are listed below
+You need to install a code editor, browser and a python interpreter to follow along this path. You can choose editor and browser of your choice, the preferred ones are listed below
 
  - **VS Code**
  
@@ -51,26 +51,26 @@ You need to install a code editor, browser and a python interpreter to follow al
     [Install Python](https://python.org)
 
 
-Get started by installing Django using pip
+*Get started by installing Django using pip*
 
 ```bash
 pip install django
 ```
 
-Choose a project directory and run the following command to create a django project.
+*Choose a project directory and run the following command to create a django project.*
 
 ```bash
 django-admin startproject myproject
 ```
 
-Now move into the newly created project folder and open vscode to start editing
+*Now move into the newly created project folder and open vscode to start editing*
 
 ```bash
 cd myproject
 code .
 ```
 
-To make sure everything is done correctly run the following command to run the development server
+*To make sure everything is done correctly run the following command to run the development server*
 
 ```
 python manage.py runserver
@@ -82,15 +82,15 @@ python manage.py runserver
 
 ### 🎓 Topics to Learn
 
-- django CLI
+- **django CLI**
     - Create project and apps
     - Database migration
 
-- urls
+- **urls**
     - url patterns
     
 
-- Creating views
+- **Creating views**
     - Templates
         - if..else
         - for loop
@@ -99,21 +99,21 @@ python manage.py runserver
         - extends
     - Static files
 
-- ORM (Object relation mapper)
+- **ORM (Object relation mapper)**
     - Database models
     - Field options
     - Database CRUD operation
     - Table relationships
     - Aggregation
-- Forms
+- **Forms**
     - CSRF Tokens
     - Form fields
     - Rendering forms in templates
-- Authentication
-    - Creating Login and signup forms
+- **Authentication**
+    - Creating Login and sign up forms
     - Session handling
 
-- Extensions
+- **Extensions**
     - [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)
     
     - [Django Storages](https://django-storages.readthedocs.io/en/latest/)
@@ -122,22 +122,22 @@ python manage.py runserver
 
     - [Django-allauth](https://www.intenct.nl/projects/django-allauth/)
 
-- Hosting
+- **Hosting**
     - Gunicorn
     - NGINX
     - PostgreSQL
     - Docker
 
 
-### Learn from
+### 🎓 Learn from
 
-#### Videos
+#### 📽️ Videos
 
 - [Django tutorial for beginers (Telusko)](https://youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)
 
 - [Django  Web development tutorial (Tech with Tim)](https://youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9)
 
-#### Articles/Blogs
+#### 📄 Articles/Blogs
 
 - [Django Templates](https://www.w3schools.com/django/django_template_variables.php)
 
@@ -158,20 +158,20 @@ Small and Easy projects to test what you have learned so far
 ---
 ## 🔖 Resource Pool
 
-### Articles/Blogs
+### 📄 Articles/Blogs
 
 - [Django Web Framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 
 - [Django REST framework (Javapoint)](https://www.javatpoint.com/create-rest-api-using-django-rest-framework)
 
-### Videos
+### 📽️ Videos
 - [The basocs of Django Models](https://youtu.be/r9kT-jm136Q)
 - [Django authentication Basics](https://youtu.be/dBctY3-Z5hY)
 - [Django REST Framework Course](https://youtu.be/tujhGdn1EMI)
 - [Sending Emails in Django](https://youtu.be/X7DWErkNVJs)
 - [Django Stripe payment integration](https://youtu.be/JwhEjEqG43M)
 
-### Communities (Optional)
+### 🫂 Communities
 
 - [Django Forum](https://forum.djangoproject.com/)
 ---

@@ -66,14 +66,14 @@ After completing this learning path you will be knowledgeable in:
 
 **🧑🏻‍💻 Learn from**
 
-_Videos_
+_📽️ Videos_
 - [Introducing Firebase](https://www.youtube.com/watch?v=XHvWx1F3S4A)
 - [Getting started with Firebase on Android](https://www.youtube.com/watch?v=jbHfJpoOzkI&t=68s)
 - [Getting started with Firebase on Apple platforms](https://www.youtube.com/watch?v=F9Gs_pfT3hs)
 - [Getting started with Firebase for the web](https://www.youtube.com/watch?v=rQvOAnNvcNQ)
 
 
-_Articles/Blogs_
+_📄 Articles/Blogs_
 - [Firebase: Getting started](https://firebase.google.com)
 - [Fundamentals | Firebase Documentation](https://firebase.google.com/docs/guides)
 
@@ -97,13 +97,13 @@ A project you can build to implement the concepts you have learned above:
 
 **🧑🏻‍💻 Learn from**
 
-_Videos_
+_📽️ Videos_
 - [Introducing Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA)
 - [Getting started with the Firebase Realtime Database](https://www.youtube.com/watch?v=pP7quzFmWBY)
 - [Firebase Realtime Database (Playlist)](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmgdxMEHar35Wo26fLWm9BI)
 
 
-_Articles/Blogs_
+_📄 Articles/Blogs_
 - [Firebase Realtime Database docs](https://firebase.google.com/docs/database)
 
 
@@ -128,12 +128,12 @@ A project you can build to implement the concepts you have learned above:
 
 **🧑🏻‍💻 Learn from**
 
-_Videos_
+_📽️ Videos_
 - [What is Firebase Authentication?](https://www.youtube.com/watch?v=vBUk293QSKY)
 - [Getting started with Firebase Authentication](https://www.youtube.com/watch?v=rbuSx1yEgV8&t=4s)
 - [Firebase Auth Tutorial (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jUPIes_B8vRjn1_GaplOPQ)
 
-_Articles/Blogs_
+_📄 Articles/Blogs_
 - [Firebase Authentication docs](https://firebase.google.com/docs/auth)
 
 
@@ -156,11 +156,11 @@ A project you can build to implement the concepts you have learned above:
 
 **🧑🏻‍💻 Learn from**
 
-_Videos_
+_📽️ Videos_
 - [Introducing Cloud Storage for Firebase](https://www.youtube.com/watch?v=_tyjqozrEPY&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 - [Getting started with Firebase Storage on the web](https://www.youtube.com/watch?v=-IFRVMEhZDc)
 
-_Articles/Blogs_
+_📄 Articles/Blogs_
 - [Cloud Storage for Firebase docs](https://firebase.google.com/docs/storage)
 
 
@@ -183,12 +183,12 @@ A project you can build to implement the concepts you have learned above:
 
 **🧑🏻‍💻 Learn from**
 
-_Videos_
+_📽️ Videos_
 - [Firebase Hosting](https://www.youtube.com/watch?v=jsRVHeQd5kU&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 - [Get started with Firebase Hosting](https://www.youtube.com/watch?v=P0x0LmiknJc)
 - [Firebase Hosting (Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9he0kHAyiyr3dDO2xw0NWoP)
 
-_Articles/Blogs_
+_📄 Articles/Blogs_
 - [Firebase Hosting docs](https://firebase.google.com/docs/hosting)
 
 
@@ -203,27 +203,27 @@ A project you can build to implement the concepts you have learned above:
 
 You can checkout these additional resources to learn more about Firebase
 
-### Articles/Blogs
+### 📄 Articles/Blogs
 
 - [The Firebase Blog](https://firebase.googleblog.com/)
 - [Firebase Stories](https://firebase.google.com/community/stories)
 - [Firebase Open Source](https://firebaseopensource.com/)
 - [Learning Pathways](https://firebase.google.com/community/learn)
-### Videos
+### 📽️ Videos
 
 - [Firebase Fundamentals](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnfwBe4WgEw9ao0J0N1LYDR)
 - [Firebase: Full Course for beginners (freeCodeCamp.org)](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
 - [Build an expense tracker web app with Firebase and React](https://www.youtube.com/watch?v=q2RZOiUD5E0)
 
-### Books
+### 📚 Books
 
 - [Firebase Cookbook (Preview)](https://www.google.co.in/books/edition/_/mkFPDwAAQBAJ?hl=en&gbpv=1&pg=PP1)
 
-### Newsletters
+### 🗞️ Newsletters
 
 - [Firebase Newsletter](https://console.firebase.google.com/subscriptions/overview)
 
-### Communities
+### 🫂 Communities
 - [Firebase Community Page](https://firebase.google.com/community)
 - [Slack community](http://firebase.community/)
 

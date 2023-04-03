@@ -88,14 +88,14 @@ You need a code editor,browser and **Node.js** to follow along this learning pat
 
 **🧑🏻‍💻 Learn from**
 
-*Videos*
+*📽️ Videos*
 - [DOM Manipulation by Freecodecamp](https://youtu.be/5fb2aPlgoys)
 - [JavaScript under the Hood](https://youtube.com/playlist?list=PLillGF-Rfqbars4vKNtpcWVDUpVOVTlgB)
 - [Fetch API](https://youtu.be/cuEtnrL9-H0)
 
 **Note:** You can refer the JavaScript for beginners to learn about promises.
 
-*Articles/Blogs*
+*📄  Articles/Blogs*
 - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 
@@ -114,15 +114,15 @@ A few projects you can build to implement the concepts you have learned above:
 ## 🔖 Resource Pool
 You can checkout these additional resources to learn more about JavaScript
 
-### Articles/Blogs
+### 📄 Articles/Blogs
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 - [JavaScript Info](https://javascript.info/)
 
-### Videos
+### 📽️ Videos
 - [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Build Games using JavaScript](https://youtu.be/ec8vSKJuZTk)
 
-### Books
+### 📚 Books
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 ---
 ## 🚀 Project Pool
@@ -131,7 +131,8 @@ Here are few project ideas you can try out, these are just an inspiration to get
 - Create a color palette generator
 - Build a countdown timer for your next birthday
 - Create a web app to display the details of your GitHub profile using GitHub API
-- Try out multiple JavaScript packages and libraries available and create interesting projects
+
+> **Try out multiple JavaScript packages and libraries available and create interesting projects**
 
 
 
