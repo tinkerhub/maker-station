@@ -175,3 +175,9 @@ An interest in mathematics and knowledge in +2 level mathematics would be good.
 
 -  Go through the above resources. Try out code
 -  Think about a machine learning project (or ask chatGPT for ideas) and start doing it with your learning
+
+## 🚀 Project Pool
+
+- Build a chatbot using spacy and huggingface transformers to talk about this learning paths
+- Collect dataset for indian dishes and create a food classifier app that explain various food items in India.
+- Build a malayalam fake news classifier by fine tuning a huggingface transformer model
