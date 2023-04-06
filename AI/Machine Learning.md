@@ -111,8 +111,8 @@ An interest in mathematics and knowledge in +2 level mathematics would be good.
 - What is deep learning 
 - Deep neural networks
 - Vision, NLP, Time series...etc
-- Types of neural networks
 - Gradient descent 
+- Types of neural networks
 - Convolutional Neural networks
 - Recurrent Neural networks
 - Transformers
@@ -122,10 +122,56 @@ An interest in mathematics and knowledge in +2 level mathematics would be good.
 
 *Video Tutorials*
 
-WIP
+- [Explanation of CNN by codebasics](https://www.youtube.com/watch?v=zfiSAzpy9NM)
+- [Building a CNN by Sentdex](https://www.youtube.com/watch?v=WvoLTXIjBYU)
+- [Transformers Playlist by code emporium](https://youtube.com/playlist?list=PLTl9hO2Oobd_bzXUpzKMKA3liq2kj6LfE)
+- [How stable diffusion and DALL-E works by computerphile](https://youtu.be/1CIpzeNxIhU)
+- [How GAN works by computerphile](https://youtu.be/Sw9r8CL98N0)
 
 
+*📄  Articles/Blogs*
+
+- [Neural Networks and deep learning by Micheal Nielson](http://neuralnetworksanddeeplearning.com/)
+- [A neural network in 11 lines of code by Andrew Trask](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+- [Gradient Descent tutorial by Andrew Trask](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+- [What is NLP by Machine learning mastery](https://machinelearningmastery.com/natural-language-processing/)
+- [Everything you want to know about computer vision by towards data science](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
+- [LSTM RNN by Andrew Trask](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 
 
+**🛠️ Get into action**
+
+- Write a blog or create a youtube video about your learning
+- Try out the codes in the above resources yourself
+
+### Learn machine learning framework(s)
+
+**🎓 Topics to Learn**
+
+```
+- Different machine learning frameworks
+- Tensorflow, Keras, Pytorch, fastAI, huggingface transformers, spacy...etc
+- MNIST image classification in 3 popular ML frameworks
+- Use framework docs and learn 
+- Do projects 
+```
+
+*Video Tutorials*
+
+- [Various machine learning frameworks by Smitha Kolan](https://youtu.be/fXsGyP2LSQ4)
+- [Tensorflow 2.0 by freecodecamp](https://youtu.be/tPYj3fFJGjk)
+- [Pytorch by freecodecamp](https://youtu.be/V_xro1bcAuA)
 
 
+*📄  Articles/Blogs*
+
+- [Tensorflow tutorials](https://www.tensorflow.org/tutorials)
+- [Pytorch tutorials](https://pytorch.org/tutorials/)
+- [spacy tutorials](https://v2.spacy.io/usage/spacy-101)
+- [Huggingface transformers](https://huggingface.co/docs/transformers/index)
+
+
+**🛠️ Get into action**
+
+-  Go through the above resources. Try out code
+-  Think about a machine learning project (or ask chatGPT for ideas) and start doing it with your learning
