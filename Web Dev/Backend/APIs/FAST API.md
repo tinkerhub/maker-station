@@ -59,68 +59,53 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 `pip install uvicorn[standard]`
 
 ## 💡 Learning Session
+
 ### Basic call on FastAPI
 
 ```
 - Understanding API architecture and how it works
 - Creating a simple API and using interactive API docs
 - Path and Query Parameters
-- Forms and Files 
+- Forms and Files
 - Jinja2 Templates and Async Databases
 - Testing with FastAPI
 ```
-#### 🧑🏻‍💻 Learn from
 
-_Videos_
+### Video Tutorials
 
+- [FastAPI - A Python Web Framework](https://www.youtube.com/watch?v=7t2alSnE2-I)
 
+- [FastAPI Tutorial Series : 1 ](https://www.youtube.com/watch?v=XnYYwcOfcn8&list=PLqAmigZvYxIL9dnYeZEhMoHcoP4zop8-p)
 
-- A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
+- [FastAPI Tutorial Series : 2 ](https://www.youtube.com/watch?v=XnYYwcOfcn8&list=PLqAmigZvYxIL9dnYeZEhMoHcoP4zop8-p)
 
-  - Activity
+**Note:** Both the series provide a structured walkthrough of all the concepts listed.
 
-    - Making an API call after learning **fetch** in JavaScript
+- Activity
 
-  - Project
-
-    - Build a simple web app using GitHub API to display the Avatar, no: of repositories when the GitHub username is given.(After learning basic HTML/CSS and JavaScript)
-
-**Note:**
-
-- It's good to split the topics to learn into different section followed by activities as mentioned above.
-
----
-
-## 🔖 Resource Pool
-
-You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about the technology and the communities to connect and network with people working on the specified technology
+  - Create a simple API using FastAPI and use the interactive API docs to test it.
 
 ### Articles/Blogs
 
--
--
-
-### Videos
-
--
--
+- [tiangolo/fastapi](https://fastapi.tiangolo.com/)
+- [Coding Nomads - FastAPI Tutorial](https://codingnomads.co/blog/python-fastapi-tutorial/)
+- [RealPython - FastAPI Tutorial](https://realpython.com/fastapi-python-web-apis/)
+- [testdriven.io](https://testdriven.io/blog/)
+- [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
 
 ### Books (Optional)
 
--
--
+- [FastAPI - Modern Python Web Development](https://www.oreilly.com/library/view/fastapi/9781098135492/)
 
 ### Newsletters (Optional)
 
+- [FastAPI and friends newsletter](https://fastapi.tiangolo.com/newsletter/)
 -
--
-
-### Communities (Optional)
-
----
 
 ## 🚀 Project Pool
 
-You can list the project ideas the person could try out and build using the technology mentioned in the learning path.
-
-**Good to have** :A few demo project links for the persons reference
+- A URL Shortener API.
+- A weather API that gets the weather of a city.
+- A movie database - allowing users to search for movies and get details about them.
+- A blogging application
+- A chat interface 
