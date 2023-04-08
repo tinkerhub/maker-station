@@ -93,14 +93,13 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 - [testdriven.io](https://testdriven.io/blog/)
 - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
 
-### Books (Optional)
+### Books
 
 - [FastAPI - Modern Python Web Development](https://www.oreilly.com/library/view/fastapi/9781098135492/)
 
-### Newsletters (Optional)
+### Newsletters
 
 - [FastAPI and friends newsletter](https://fastapi.tiangolo.com/newsletter/)
--
 
 ## 🚀 Project Pool
 
