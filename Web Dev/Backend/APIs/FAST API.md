@@ -58,6 +58,7 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 
 `pip install uvicorn[standard]`
 
+---
 ## 💡 Learning Session
 
 ### Basic call on FastAPI
@@ -84,7 +85,8 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 - Activity
 
   - Create a simple API using FastAPI and use the interactive API docs to test it.
-
+---
+## 🔖 Resource Pool
 ### Articles/Blogs
 
 - [tiangolo/fastapi](https://fastapi.tiangolo.com/)
