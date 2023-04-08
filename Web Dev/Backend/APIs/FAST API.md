@@ -103,8 +103,11 @@ Unlike the Flask framework, FastAPI doesn't contain any built-in development ser
 
 ## 🚀 Project Pool
 
-- A URL Shortener API.
-- A weather API that gets the weather of a city.
-- A movie database - allowing users to search for movies and get details about them.
-- A blogging application
-- A chat interface 
+- [A URL Shortener API](https://realpython.com/build-a-python-url-shortener-with-fastapi/)
+
+  - [Source Code](https://github.com/realpython/materials/tree/master/fastapi-url-shortener/source_code_final)
+
+- [Student data storage](https://testdriven.io/blog/fastapi-mongo/)
+
+- [A blogging application](https://github.com/dhavalsavalia/fastapi-blog)
+- [A chat interface](https://github.com/jrdeveloper124/socketio-app)
