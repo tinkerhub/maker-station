@@ -57,10 +57,10 @@ We'll consider that you are using Ubuntu 22.04 and base the procedure on that. A
     - [API Gateway:](https://aws.amazon.com/api-gateway/getting-started/)
         - [Introduction to REST API](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.)
         - [Basics of building APIs (resources, methods, formats etc.)](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html)
-    - DynamoDB:
-        - Introduction to Key Value DB
-        - Working with DynamoDB
-    - AWS SAM (Serverless Application Model)
+    - [DynamoDB:](https://aws.amazon.com/dynamodb/getting-started/?refid=1e5631f8-a3e1-45eb-8587-22803d0da70e)
+        - [Introduction to Key Value DB](https://aws.amazon.com/nosql/key-value/#:~:text=A%20key%2Dvalue%20database%20is,objects%20to%20complex%20compound%20objects.)
+        - [Working with DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+    - [AWS SAM (Serverless Application Model)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
 
 - Project:
     - Setting up a Lambda function to send you an email with a joke every 10 minutes:
@@ -75,32 +75,28 @@ We'll consider that you are using Ubuntu 22.04 and base the procedure on that. A
 ---
 ## 🔖 Resource Pool
 
-You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about  the technology and the communities to connect and network with people working on the specified technology
+- [AWS serverless repository](https://aws.amazon.com/serverless/serverlessrepo/)
+- [AWS Training and certification](https://aws.amazon.com/training/)
 
 ### 📄 Articles/Blogs
--
--
+- [AWS Serverless blogs](https://aws.amazon.com/blogs/serverless/)
 
 ### 📽️ Videos
--
--
+- [This is my architecture](https://www.youtube.com/watch?v=hnMQFnTGr3I&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
 ### 📚 Books (Optional)
--
--
+- https://www.amazon.in/Distributed-Serverless-Architectures-AWS-Implement/dp/1484291581
 
 ### 🗞️ Newsletters (Optional)
--
--
+- https://serverless.email/
 
 ### 🫂 Communities (Optional)
+- AWS User groups ([Kochi](https://meetup.com/awsugkochi))
 
 ---
 ## 🚀 Project Pool
 
-You can list the project ideas the person could try out and build using the technology mentioned in the learning path.
-
-**Good to have** :A few demo project links for the persons reference
+- https://github.com/claudiajs/claudia
 
 
 
