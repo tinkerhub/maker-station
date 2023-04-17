@@ -38,34 +38,39 @@ Since Python is the most popular, we'll go with that, but I would recommend Go f
 
 ## 📲 Installation and Setup
 
-We'll consider that you are using Ubuntu 22.04 and base the procedure on that
+We'll consider that you are using Ubuntu 22.04 and base the procedure on that. Also We'll be using AWS serverless resources.
 
-- Install python - Python is installed by default on Ubuntu 22.04 but you can check out the [Python](https://www.python.org/downloads/) website to download it.
-
-- VSCode - We'll use VSCode as the IDE and you can download it from here
-List down the softwares and libraries to be installed before proceeding with the learning path. Clearly mention the sites(link) to install the required softwares and libraries.
-
-Eg: Node is required for ReactJS
+- [Python](https://www.python.org/downloads/) - Python is installed by default on Ubuntu 22.04 but you can check out the Python website to download it.
+- [VSCode](https://code.visualstudio.com/) - We'll use VSCode as the IDE
+- [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html) - We'll use AWS SAM to deploy serverless resources easily
+- [AWS Account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html) - An AWS account is needed since we'll be using AWS for the cloud resources, but don't worry, the free tier will be more than enough for learning and it won't cost anything
 
 ---
 
 ## 💡 Learning Session
 
-### Format
-- Topics to Learn
-- Resources to learn the mentioned topics
-- A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
-    
-    - Activity
-    
-        - Making an API call after learning **fetch** in JavaScript
-    - Project
+- Theory
+    - [AWS Lambda:](https://aws.amazon.com/lambda/getting-started/)
+        - [Introduction to Functions as a Service](https://www.ibm.com/in-en/topics/faas#:~:text=FaaS%20(Function%2Das%2Da%2DService)%20is%20a,building%20and%20launching%20microservices%20applications.)
+        - [Working with IAM roles (permission)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+        - [Basics of AWS SDK](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+    - [API Gateway:](https://aws.amazon.com/api-gateway/getting-started/)
+        - [Introduction to REST API](https://aws.amazon.com/what-is/restful-api/#:~:text=RESTful%20API%20is%20an%20interface,applications%20to%20perform%20various%20tasks.)
+        - [Basics of building APIs (resources, methods, formats etc.)](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html)
+    - DynamoDB:
+        - Introduction to Key Value DB
+        - Working with DynamoDB
+    - AWS SAM (Serverless Application Model)
 
-        - Build a simple web app using GitHub API to display the Avatar, no: of repositories when the GitHub username is given.(After learning basic HTML/CSS and JavaScript)
-
-**Note:**
-
-- It's good to split the topics to learn into different section followed by activities as mentioned above.
+- Project:
+    - Setting up a Lambda function to send you an email with a joke every 10 minutes:
+        - Practical applications of AWS Lambda
+        - Working with [external APIs](https://sv443.net/jokeapi/v2/)
+        - Working with Amazon EventBridge
+        - Working with Amazon SNS
+    - Setting up an API to get some pre-existing data in DynamoDB:
+        - Working with API Gateway
+        - Working with DynamoDB
 
 ---
 ## 🔖 Resource Pool
