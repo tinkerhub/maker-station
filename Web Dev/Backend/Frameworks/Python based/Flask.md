@@ -66,7 +66,10 @@ You need a code editor,browser and **Python** to follow along this learning path
 ```
 
 **🧑🏻‍💻 Learn from**
-
+- To learn how to create a minimal application [refer here](https://youtu.be/MwZwr5Tvyxo)
+- To learn how to create an HTML template [refer here](https://youtu.be/xIgPMguqyws)
+- To learn requests and methods [refer here](https://youtu.be/9MHYHgh4jYc)
+- To learn database operations using sql alchemy [refer here](https://youtu.be/uZnp21fu8TQ) 
 
 
 
@@ -91,7 +94,7 @@ You can checkout these additional resources to learn more about Flask
 
 Here are few project ideas you can try out, these are just an inspiration to get started. Try to learn and build ideas that come to your mind.
 
-- Simple login/signup page.
-- Create a basic Todo app.
-- Create a Diary app.
-- Try out Django after aquiring basic Flask knowledge.
+- Simple login/signup page.[Refer here](https://youtu.be/71EU8gnZqZQ)
+- Create a basic Todo app. [Refer here](https://youtu.be/yKHJsLUENl0)
+- Create a Diary app. After trying Todo application you will get an idea on how to perform operations for creating a Diary app.
+- Try out Django after aquiring basic Flask knowledge. Refer the Django Learning path [**Here**](https://github.com/tinkerhub/maker-station/blob/main/Web%20Dev/Backend/Frameworks/Python%20based/Django.md)
