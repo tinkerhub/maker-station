@@ -7,7 +7,7 @@ The Future scope of Blockchain is vast and promising, with many industries expec
 
 ## Where they can implement the technology:
 
-Financial Institutions <br>
+* Financial Institutions <br>
 Supply Chain Management <br>
 Healthcare Industry <br>
 Real Estate <br>
