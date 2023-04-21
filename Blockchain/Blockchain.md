@@ -15,32 +15,32 @@ Voting Systems <br>
 
 ## 🎓 Take Away Skills:
 
-Understanding the basics of Blockchain technology
-Developing Smart Contracts
-Building Decentralized Applications
-Implementing Security measures in Blockchain networks
-Understanding the working of Distributed Ledger Technology
+Understanding the basics of Blockchain technology <br>
+Developing Smart Contracts <br>
+Building Decentralized Applications <br>
+Implementing Security measures in Blockchain networks <br>
+Understanding the working of Distributed Ledger Technology <br>
 
 ## 🛠️ Prerequisites:
 
-Programming Knowledge:
-Basic understanding of Programming Concepts
-Knowledge of Object-Oriented Programming (OOP)
-Basic knowledge of JavaScript
+### Programming Knowledge: <br>
+Basic understanding of Programming Concepts <br>
+Knowledge of Object-Oriented Programming (OOP) <br>
+Basic knowledge of JavaScript <br>
 
 ### Installation and Setup:
 
-Node.js
-Hardhat
+Node.js <br> 
+Hardhat <br>
 
 ## 🧑🏻‍💻 Programming Knowledge:
 
-Solidity
-Web3.js
+Solidity <br>
+Web3.js <br>
 
 ## 📲 Installation and Setup:
 
-Install Node.js: https://nodejs.org/en/download/
+Install Node.js: https://nodejs.org/en/download/ <br>
 
 ## 💡 Learning Session:
 
@@ -113,6 +113,6 @@ Ethereum Stack Exchange: https://ethereum.stackexchange.com/ <br>
 
 ## 🚀 Project Pool:
 
-Blockchain-based loyalty program
-Decentralized crowdfunding platform
-Blockchain-based loyalty program
+Blockchain-based loyalty program <br>
+Decentralized crowdfunding platform <br>
+Blockchain-based loyalty program <br>
