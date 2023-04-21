@@ -1,6 +1,6 @@
-Learning Blockchain for Beginners
+# Learning Blockchain for Beginners
 
-Why learn Blockchain ❓
+## Why learn Blockchain ❓
 
 Blockchain technology is becoming increasingly popular due to its potential to revolutionize the way transactions are recorded and verified. It is a decentralized and secure method of transferring digital assets without the need for intermediaries. This technology has a wide range of applications, including finance, supply chain management, healthcare, voting, and more.
 The Future scope of Blockchain is vast and promising, with many industries expected to adopt this technology in the coming years. Therefore, learning Blockchain is a valuable skill that can lead to career growth and job opportunities.
@@ -102,11 +102,6 @@ https://www.youtube.com/watch?v=xIDL_akeras <br>
 
 "Mastering Blockchain" by Imran Bashir
 "Introducing Ethereum and Solidity" by Chris Dannen
-
-
-🗞️ Newsletters:
-
-Blockchain Weekly: https://www.getrevue.co/profile/blockchainweekly <br>
 
 🫂 Communities:
 
