@@ -27,7 +27,6 @@ Programming Knowledge:
 Basic understanding of Programming Concepts
 Knowledge of Object-Oriented Programming (OOP)
 Basic knowledge of JavaScript
-
 Installation and Setup:
 
 Node.js
@@ -45,31 +44,41 @@ Install Node.js: https://nodejs.org/en/download/
 💡 Learning Session:
 
 Introduction to Blockchain Technology
+
 What is Blockchain?
 Decentralized Ledger System
 Consensus Mechanisms
 Types of Blockchains
+
 Resources:
+
 https://www.youtube.com/watch?v=SSo_EIwHSd4
 https://www.ibm.com/blockchain/what-is-blockchain
+
 Smart Contracts
+
 What are Smart Contracts?
 Writing Smart Contracts in Solidity
 Deploying Smart Contracts to the Blockchain
+
 Resources:
 https://www.youtube.com/watch?v=ZE2HxTmxfrI
 https://solidity.readthedocs.io/en/v0.8.9/
+
 Activity:
 Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE
 Decentralized Applications (DApps)
 What are DApps?
 Building a DApp using Truffle and React
 Integrating Smart Contracts with DApps
+
 Resources:
+
 https://www.youtube.com/watch?v=a0osIaAOFSE
 https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 
 Activity:
+
 Build a dApp for creating a to-do list
 
 🔖 Resource Pool:
