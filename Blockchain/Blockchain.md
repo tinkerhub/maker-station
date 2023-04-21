@@ -114,4 +114,4 @@ Build a dApp for creating a to-do list
 ## 🚀 Project Pool:
 
 * Decentralized crowdfunding platform <br>
-* Blockchain-based loyalty program <br>
+* Blockchain-based loyalty platform <br>
