@@ -77,8 +77,8 @@ Decentralized Applications (DApps) <br>
 
 Resources:
 
-*https://www.youtube.com/watch?v=a0osIaAOFSE <br>
-*https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <br>
+* https://www.youtube.com/watch?v=a0osIaAOFSE <br>
+* https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <br>
 
 Mini Project Activity:
 
