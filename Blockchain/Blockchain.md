@@ -8,35 +8,36 @@ The Future scope of Blockchain is vast and promising, with many industries expec
 ## Where they can implement the technology:
 
 * Financial Institutions <br>
-Supply Chain Management <br>
-Healthcare Industry <br>
-Real Estate <br>
-Voting Systems <br>
+* Supply Chain Management <br>
+* Healthcare Industry <br>
+* Real Estate <br>
+* Voting Systems <br>
 
 ## 🎓 Take Away Skills:
 
-Understanding the basics of Blockchain technology <br>
-Developing Smart Contracts <br>
-Building Decentralized Applications <br>
-Implementing Security measures in Blockchain networks <br>
-Understanding the working of Distributed Ledger Technology <br>
+* Understanding the basics of Blockchain technology <br>
+* Developing Smart Contracts <br>
+* Building Decentralized Applications <br>
+* Implementing Security measures in Blockchain networks <br>
+* Understanding the working of Distributed Ledger Technology <br>
 
 ## 🛠️ Prerequisites:
 
-### Programming Knowledge: <br>
-Basic understanding of Programming Concepts <br>
-Knowledge of Object-Oriented Programming (OOP) <br>
-Basic knowledge of JavaScript <br>
+### Programming Knowledge: 
+
+* Basic understanding of Programming Concepts <br>
+* Knowledge of Object-Oriented Programming (OOP) <br>
+* Basic knowledge of JavaScript <br>
 
 ### Installation and Setup:
 
-Node.js <br> 
-Hardhat <br>
+* Node.js <br> 
 
 ## 🧑🏻‍💻 Programming Knowledge:
 
-Solidity <br>
-Web3.js <br>
+* Javascript <br>
+* Solidity <br>
+* Web3.js <br>
 
 ## 📲 Installation and Setup:
 
@@ -46,10 +47,9 @@ Install Node.js: https://nodejs.org/en/download/ <br>
 
 ### Introduction to Blockchain Technology
 
-What is Blockchain? <br>
-Decentralized Ledger System <br>
-Consensus Mechanisms <br>
-Types of Blockchains <br>
+* What is Blockchain? <br>
+* Decentralized Ledger System <br>
+* Consensus Mechanisms <br>
 
 Resources:
 
@@ -58,9 +58,9 @@ https://www.ibm.com/blockchain/what-is-blockchain <br>
 
 ### Smart Contracts
 
-What are Smart Contracts? <br>
-Writing Smart Contracts in Solidity <br>
-Deploying Smart Contracts to the Blockchain <br>
+* What are Smart Contracts? <br>
+* Writing Smart Contracts in Solidity <br>
+* Deploying Smart Contracts to the Blockchain <br>
 
 Resources:
 https://www.youtube.com/watch?v=ZE2HxTmxfrI <br>
@@ -68,11 +68,11 @@ https://solidity.readthedocs.io/en/v0.8.9/ <br>
 
 ## Activity:
 
-Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE <br>
+* Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE <br>
 Decentralized Applications (DApps) <br>
-What are DApps? <br>
-Building a DApp using React <br>
-Integrating Smart Contracts with DApps <br>
+* What are DApps? <br>
+* Building a DApp using React <br>
+* Integrating Smart Contracts with DApps <br>
 
 Resources:
 
@@ -85,9 +85,9 @@ Build a dApp for creating a to-do list
 
 ## 🔖 Resource Pool:
 
-Ethereum Whitepaper: https://ethereum.org/en/whitepaper/ <br>
-Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/  <br>
-ConsenSys Blog: https://consensys.net/blog/ 
+* Ethereum Whitepaper: https://ethereum.org/en/whitepaper/ <br>
+* Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/  <br>
+* ConsenSys Blog: https://consensys.net/blog/ 
 
 ## 📄 Articles/Blogs:
 
@@ -97,22 +97,22 @@ https://consensys.net/blog/blockchain-explained/ <br>
 
 ## 📽️ Videos:
 
-https://www.youtube.com/watch?v=_160oMzblY8 <br>
-https://www.youtube.com/watch?v=xIDL_akeras <br>
+* https://www.youtube.com/watch?v=_160oMzblY8 <br>
+* https://www.youtube.com/watch?v=xIDL_akeras <br>
 
 ## 📚 Books:
 
-"Mastering Blockchain" by Imran Bashir
-"Introducing Ethereum and Solidity" by Chris Dannen
+* "Mastering Blockchain" by Imran Bashir
+* "Introducing Ethereum and Solidity" by Chris Dannen
 
 ## 🫂 Communities:
 
-Peeranha: https://peeranha.io/ <br>
-r/ethereum: https://www.reddit.com/r/ethereum/ <br>
-Ethereum Stack Exchange: https://ethereum.stackexchange.com/ <br>
+* Peeranha: https://peeranha.io/ <br>
+* Ethereum: https://www.reddit.com/r/ethereum/ <br>
+* Ethereum Stack Exchange: https://ethereum.stackexchange.com/ <br>
 
 ## 🚀 Project Pool:
 
-Blockchain-based loyalty program <br>
-Decentralized crowdfunding platform <br>
-Blockchain-based loyalty program <br>
+* Blockchain-based loyalty program <br>
+* Decentralized crowdfunding platform <br>
+* Blockchain-based loyalty program <br>
