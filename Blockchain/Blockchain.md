@@ -1,4 +1,4 @@
-# Learning Blockchain for Beginners
+# Blockchain for Beginners
 
 ## Why learn Blockchain ❓
 
