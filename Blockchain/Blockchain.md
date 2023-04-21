@@ -27,6 +27,7 @@ Programming Knowledge:
 Basic understanding of Programming Concepts
 Knowledge of Object-Oriented Programming (OOP)
 Basic knowledge of JavaScript
+
 Installation and Setup:
 
 Node.js
@@ -42,6 +43,7 @@ Web3.js
 Install Node.js: https://nodejs.org/en/download/
 
 💡 Learning Session:
+
 Introduction to Blockchain Technology
 What is Blockchain?
 Decentralized Ledger System
