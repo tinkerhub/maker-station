@@ -53,8 +53,8 @@ Install Node.js: https://nodejs.org/en/download/ <br>
 
 Resources:
 
-https://www.youtube.com/watch?v=SSo_EIwHSd4 <br>
-https://www.ibm.com/blockchain/what-is-blockchain <br>
+* https://www.youtube.com/watch?v=SSo_EIwHSd4 <br>
+* https://www.ibm.com/blockchain/what-is-blockchain <br>
 
 ### Smart Contracts
 
@@ -63,8 +63,9 @@ https://www.ibm.com/blockchain/what-is-blockchain <br>
 * Deploying Smart Contracts to the Blockchain <br>
 
 Resources:
-https://www.youtube.com/watch?v=ZE2HxTmxfrI <br>
-https://solidity.readthedocs.io/en/v0.8.9/ <br>
+
+* https://www.youtube.com/watch?v=ZE2HxTmxfrI <br>
+* https://solidity.readthedocs.io/en/v0.8.9/ <br>
 
 ## Activity:
 
@@ -76,8 +77,8 @@ Decentralized Applications (DApps) <br>
 
 Resources:
 
-https://www.youtube.com/watch?v=a0osIaAOFSE <br>
-https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <br>
+*https://www.youtube.com/watch?v=a0osIaAOFSE <br>
+*https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <br>
 
 Mini Project Activity:
 
