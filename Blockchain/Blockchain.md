@@ -45,25 +45,25 @@ Install Node.js: https://nodejs.org/en/download/
 
 Introduction to Blockchain Technology
 
-What is Blockchain?
-Decentralized Ledger System
-Consensus Mechanisms
-Types of Blockchains
+What is Blockchain? <br>
+Decentralized Ledger System <br>
+Consensus Mechanisms <br>
+Types of Blockchains <br>
 
 Resources:
 
-https://www.youtube.com/watch?v=SSo_EIwHSd4
-https://www.ibm.com/blockchain/what-is-blockchain
+https://www.youtube.com/watch?v=SSo_EIwHSd4 <br>
+https://www.ibm.com/blockchain/what-is-blockchain <br>
 
 Smart Contracts
 
-What are Smart Contracts?
-Writing Smart Contracts in Solidity
-Deploying Smart Contracts to the Blockchain
+What are Smart Contracts? <br>
+Writing Smart Contracts in Solidity <br>
+Deploying Smart Contracts to the Blockchain <br>
 
 Resources:
-https://www.youtube.com/watch?v=ZE2HxTmxfrI
-https://solidity.readthedocs.io/en/v0.8.9/
+https://www.youtube.com/watch?v=ZE2HxTmxfrI <br>
+https://solidity.readthedocs.io/en/v0.8.9/ <br>
 
 Activity:
 Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE
@@ -84,19 +84,19 @@ Build a dApp for creating a to-do list
 🔖 Resource Pool:
 
 Ethereum Whitepaper: https://ethereum.org/en/whitepaper/ <br>
-Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/
-ConsenSys Blog: https://consensys.net/blog/
+Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/  <br>
+ConsenSys Blog: https://consensys.net/blog/ 
 
 📄 Articles/Blogs:
 
-https://blockgeeks.com/guides/what-is-blockchain-technology/
-https://ethereum.org/en/developers/docs/
-https://consensys.net/blog/blockchain-explained/
+https://blockgeeks.com/guides/what-is-blockchain-technology/ <br>
+https://ethereum.org/en/developers/docs/ <br>
+https://consensys.net/blog/blockchain-explained/ <br>
 
 📽️ Videos:
 
-https://www.youtube.com/watch?v=_160oMzblY8
-https://www.youtube.com/watch?v=pKqdjaH2M2o
+https://www.youtube.com/watch?v=_160oMzblY8 <br>
+https://www.youtube.com/watch?v=pKqdjaH2M2o <br>
 
 📚 Books:
 
@@ -106,12 +106,13 @@ https://www.youtube.com/watch?v=pKqdjaH2M2o
 
 🗞️ Newsletters:
 
-Blockchain Weekly: https://www.getrevue.co/profile/blockchainweekly
+Blockchain Weekly: https://www.getrevue.co/profile/blockchainweekly <br>
 
 🫂 Communities:
 
-r/ethereum: https://www.reddit.com/r/ethereum/
-Ethereum Stack Exchange: https://ethereum.stackexchange.com/
+Peeranha: https://peeranha.io/ <br>
+r/ethereum: https://www.reddit.com/r/ethereum/ <br>
+Ethereum Stack Exchange: https://ethereum.stackexchange.com/ <br>
 
 🚀 Project Pool:
 
