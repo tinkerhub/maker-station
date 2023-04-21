@@ -7,112 +7,107 @@ The Future scope of Blockchain is vast and promising, with many industries expec
 
 ## Where they can implement the technology:
 
-* Financial Institutions <br>
-* Supply Chain Management <br>
-* Healthcare Industry <br>
-* Real Estate <br>
-* Voting Systems <br>
+* Financial Institutions 
+* Supply Chain Management 
+* Healthcare Industry 
+* Real Estate 
+* Voting Systems 
 
 ## 🎓 Take Away Skills:
 
-* Understanding the basics of Blockchain technology <br>
-* Developing Smart Contracts <br>
-* Building Decentralized Applications <br>
-* Implementing Security measures in Blockchain networks <br>
-* Understanding the working of Distributed Ledger Technology <br>
+* Understanding the basics of Blockchain technology 
+* Developing Smart Contracts 
+* Building Decentralized Applications 
+* Implementing Security measures in Blockchain networks 
+* Understanding the working of Distributed Ledger Technology 
 
 ## 🛠️ Prerequisites:
 
-### Programming Knowledge: 
+### 🧑🏻‍💻 Programming Knowledge: 
 
-* Basic understanding of Programming Concepts <br>
-* Knowledge of Object-Oriented Programming (OOP) <br>
-* Basic knowledge of JavaScript <br>
-
-### Installation and Setup:
-
-* Node.js <br> 
-
-## 🧑🏻‍💻 Programming Knowledge:
-
-* Javascript <br>
-* Solidity <br>
-* Web3.js <br>
+* Basic understanding of Programming Concepts 
+* Knowledge of Object-Oriented Programming (OOP) 
+* Basic knowledge of JavaScript 
+* Javascript 
+* Solidity 
+* Web3.js 
 
 ## 📲 Installation and Setup:
 
-Install Node.js: https://nodejs.org/en/download/ <br>
+[Install Node.js](https://nodejs.org/en/download/)
 
+---
 ## 💡 Learning Session:
 
 ### Introduction to Blockchain Technology
 
-* What is Blockchain? <br>
-* Decentralized Ledger System <br>
-* Consensus Mechanisms <br>
+* What is Blockchain? 
+* Decentralized Ledger System 
+* Consensus Mechanisms 
 
-Resources:
+**📚 Resources:**
 
-* https://www.youtube.com/watch?v=SSo_EIwHSd4 <br>
-* https://www.ibm.com/blockchain/what-is-blockchain <br>
+* https://www.youtube.com/watch?v=SSo_EIwHSd4 
+* https://www.ibm.com/blockchain/what-is-blockchain 
 
 ### Smart Contracts
 
-* What are Smart Contracts? <br>
-* Writing Smart Contracts in Solidity <br>
-* Deploying Smart Contracts to the Blockchain <br>
+* What are Smart Contracts? 
+* Writing Smart Contracts in Solidity 
+* Deploying Smart Contracts to the Blockchain 
 
-Resources:
+**📚 Resources:**
 
 * https://www.youtube.com/watch?v=ZE2HxTmxfrI <br>
 * https://solidity.readthedocs.io/en/v0.8.9/ <br>
 
-## Activity:
+### 💡 Activity:
 
-* Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE <br>
-Decentralized Applications (DApps) <br>
-* What are DApps? <br>
-* Building a DApp using React <br>
-* Integrating Smart Contracts with DApps <br>
+* Writing a simple Smart Contract in Solidity and deploying it to the Ethereum network using Remix IDE
 
-Resources:
+### Decentralized Applications (DApps)
+* What are DApps? 
+* Building a DApp using React 
+* Integrating Smart Contracts with DApps 
 
-* https://www.youtube.com/watch?v=a0osIaAOFSE <br>
-* https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 <br>
+**📚 Resources:**
 
-Mini Project Activity:
+* https://www.youtube.com/watch?v=a0osIaAOFSE 
+* https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 
+
+## 🛠️ Mini Project Activity:
 
 Build a dApp for creating a to-do list
 
 ## 🔖 Resource Pool:
 
-* Ethereum Whitepaper: https://ethereum.org/en/whitepaper/ <br>
-* Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/  <br>
-* ConsenSys Blog: https://consensys.net/blog/ 
+* [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+* [Solidity Documentation]( https://solidity.readthedocs.io/en/v0.8.9/)
+* [ConsenSys Blog](https://consensys.net/blog/)
 
 ## 📄 Articles/Blogs:
 
-* https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f <br>
-* https://ethereum.org/en/developers/docs/ <br>
-* https://consensys.net/blog/blockchain-explained/ <br>
+* https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f 
+* https://ethereum.org/en/developers/docs/ 
+* https://consensys.net/blog/blockchain-explained/ 
 
 ## 📽️ Videos:
 
-* https://www.youtube.com/watch?v=_160oMzblY8 <br>
-* https://www.youtube.com/watch?v=xIDL_akeras <br>
+* https://www.youtube.com/watch?v=_160oMzblY8
+* https://www.youtube.com/watch?v=xIDL_akeras
 
 ## 📚 Books:
 
-* "Mastering Blockchain" by Imran Bashir
-* "Introducing Ethereum and Solidity" by Chris Dannen
+* **Mastering Blockchain** by Imran Bashir
+* **Introducing Ethereum** and Solidity by Chris Dannen
 
 ## 🫂 Communities:
 
-* Peeranha: https://peeranha.io/ <br>
-* Ethereum: https://www.reddit.com/r/ethereum/ <br>
-* Ethereum Stack Exchange: https://ethereum.stackexchange.com/ <br>
+* [Peeranha](https://peeranha.io/)
+* [Ethereum](https://www.reddit.com/r/ethereum/)
+* [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
 
 ## 🚀 Project Pool:
 
-* Decentralized crowdfunding platform <br>
-* Blockchain-based loyalty platform <br>
+* Decentralized crowdfunding platform 
+* Blockchain-based loyalty platform 
