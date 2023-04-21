@@ -96,7 +96,7 @@ https://consensys.net/blog/blockchain-explained/ <br>
 📽️ Videos:
 
 https://www.youtube.com/watch?v=_160oMzblY8 <br>
-https://www.youtube.com/watch?v=pKqdjaH2M2o <br>
+https://www.youtube.com/watch?v=xIDL_akeras <br>
 
 📚 Books:
 
