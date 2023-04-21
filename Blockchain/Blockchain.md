@@ -85,12 +85,7 @@ Build a dApp for creating a to-do list
 
 Ethereum Whitepaper: https://ethereum.org/en/whitepaper/ 
 Solidity Documentation: https://solidity.readthedocs.io/en/v0.8.9/
-
 ConsenSys Blog: https://consensys.net/blog/
-
-
-
-
 
 📄 Articles/Blogs:
 
