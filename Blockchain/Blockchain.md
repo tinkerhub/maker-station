@@ -91,9 +91,9 @@ Build a dApp for creating a to-do list
 
 ## 📄 Articles/Blogs:
 
-https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f <br>
-https://ethereum.org/en/developers/docs/ <br>
-https://consensys.net/blog/blockchain-explained/ <br>
+* https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f <br>
+* https://ethereum.org/en/developers/docs/ <br>
+* https://consensys.net/blog/blockchain-explained/ <br>
 
 ## 📽️ Videos:
 
