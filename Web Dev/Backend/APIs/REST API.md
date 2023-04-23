@@ -97,7 +97,7 @@ Overall, the URL, domain, and endpoint are important components of a web address
 
 # Search Restuarant API (API name)
 
-## ``POST`` ``/search``
+## ``GET`` ``/search``
 
 ### Request Structure
 
