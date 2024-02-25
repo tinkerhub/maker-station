@@ -38,9 +38,8 @@ is a must
 ### 📲 Installation and Setup
 
 - A laptop windows/mac/linux is a must. 
-- Windows — Install Rust on Windows by downloading and running the installer from the official website.
-🍏
-- macOS — Use Homebrew or download and run the macOS installer from the official Rust website. 💻
+- Windows — Install Rust on Windows by downloading and running the installer from the official website. 🪟
+- macOS — Use Homebrew or download and run the macOS installer from the official Rust website. 🍏
 - Linux — Install Rust on Linux using the package manager or download and run the installer from the official website. 🖥️
 
 ## 💡 Learning Session
