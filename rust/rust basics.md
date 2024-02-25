@@ -93,6 +93,6 @@ Exercism — Submit your code for review and feedback from mentors to enhance yo
 
 - Beginner — Build CLI utilities, Todo List, Budget Manager, or Unit Converter.
 🚀
-Intermediate — Develop a Social Media Bot, Metered API Server, or a cargo package.
+- Intermediate — Develop a Social Media Bot, Metered API Server, or a cargo package.
 💡
-Advanced — Build a game engine that can be used to build 2d games 🎮
+- Advanced — Build a game engine that can be used to build 2d games 🎮
